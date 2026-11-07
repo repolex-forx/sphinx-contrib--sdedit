@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "sdedit",
+  "versions": [
+    {
+      "commit": "0f8da02c72bdf9e82a8b323cb2d372244993659d",
+      "tag": "",
+      "parsed_at": "2026-11-07T00:50:00.372608+00:00"
+    }
+  ]
+}
